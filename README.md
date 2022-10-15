@@ -91,7 +91,7 @@
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/80222352/195955448-aac57ad5-2870-485a-bf1a-31506f52ff44.png">
 
 
-## 📑 서비스 로고
+## 📑 서비스 로고(초안)
 <img width="159" alt="스크린샷 2022-10-14 오전 12 24 46" src="https://user-images.githubusercontent.com/84445210/195638850-7e3e3545-c54a-414b-8e4d-b55dec5e945a.png">
 
 
